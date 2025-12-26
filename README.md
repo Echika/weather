@@ -2,8 +2,6 @@
 
 A modern weather application that shows real-time weather data for any city in the world. 
 
-![Weather App Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Weather+App)
-
 ## What This App Does
 
 - Search for any city worldwide
