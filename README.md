@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Weather Forecast App
 
-## Getting Started
+A modern weather application that shows real-time weather data for any city in the world. 
 
-First, run the development server:
+![Weather App Screenshot](https://via.placeholder.com/800x400/667eea/ffffff?text=Weather+App)
 
+## What This App Does
+
+- Search for any city worldwide
+- See current temperature
+- Check humidity and wind speed
+- Beautiful, responsive design
+
+## Technologies Used
+
+- **Next.js 15** - React framework
+- **TypeScript** - Type-safe JavaScript
+- **Material-UI (MUI)** - Professional components
+- **Weather API** - Real-time weather data
+
+## How to Run This Project
+
+1. Clone this repository:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/Echika/weather-app-nextjs.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install dependencies:
+```bash
+cd weather-app-nextjs
+npm install
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+3. Run the development server:
+```bash
+npm run dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+4. Open your browser to `http://localhost:3000`
 
-## Learn More
+## What I Learned Building This
 
-To learn more about Next.js, take a look at the following resources:
+- Making API calls with `fetch()`
+- Managing state with React hooks
+- TypeScript interfaces for type safety
+- Responsive design with MUI
+- Loading states and error handling
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Live Demo
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Coming soon!
 
-## Deploy on Vercel
+## About Me
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+I'm excited to be actually learning React and TypeScript to become a frontend developer. This is one of my portfolio projects. 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Connect With Me
+
+- GitHub: (https://github.com/Echika)
+
+---
+
+Built with ❤️ while learning to code
